@@ -6,12 +6,13 @@ The experiment examines the ability to create notes via synthesizing and interfa
 
 ## **Method**
 
-Each source will have 1-2 parts randomly selected to create a note. After the selection process, the experiment will proceed by testing NotebookLM's ability to suggest applicable actions for each and multiple notes.
+In this experiment, 1-2 sections will be randomly selected from each source to create notes. Following the selection process, we will test NotebookLM's ability to suggest relevant actions for each note, as well as for multiple notes simultaneously.
 
-The results will be used to evaluate the following questions:
+The results will be analyzed to address the following key questions:
 
-- Does the summarization function create a reasonable and accurate brief?
-- Are the notebook guides generated automatically?
+-	Does the summarization function produce a clear and accurate brief?
+-	Are the notebook guides generated automatically and effectively assist users in navigating their notes?
+
 
 ---
 
