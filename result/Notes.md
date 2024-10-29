@@ -2,7 +2,7 @@
 
 ### **Objective**
 
-The experiment examines the ability to create notes via synthesizing and interface interactions.
+Given that notes are a powerful tool within NotebookLM, it is essential to assess their effectiveness in organizing and synthesizing information to create concise paragraphs. Additionally, we will explore how new users can make the most of the suggested actions available in the notes feature
 
 ## **Method**
 
