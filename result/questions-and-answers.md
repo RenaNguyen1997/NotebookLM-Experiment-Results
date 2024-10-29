@@ -1,7 +1,7 @@
 # TEST THE QUESTIONS AND ANSWERS FUNCTIONALITY
 
 ### **Objective**
-The main objective is to examine the potential in synthesizing information and provide relevant answers to specific questions
+This experiment focuses on NotebookLM's ability to answer questions of varying complexity by synthesizing information from a notebook containing diverse types of content (text, images, charts, etc.)
 
 ---
 
