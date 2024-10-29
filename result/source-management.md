@@ -38,9 +38,10 @@ After clicking on a source, NotebookLM automatically generates a summary and sug
 
 
 
-3. *PDF:*  NotebookLM correctly reads all the text content; however, it struggles to read and upload the formatting, figures, and charts accurately.
+3. *PDF:*  NotebookLM correctly reads all the text content; however, it struggles to read and upload the formatting, figures, and charts accurately. Furthermore, NotebookLM can only recognize files created directly in Google Docs. Files uploaded from a local machine with .docs format are not recognized. Users must save their files as Google Docs to utilize the functionality properly.
 
 ![image](https://github.com/user-attachments/assets/5c860281-cc33-4ad1-b141-5a2daa6bb325)
+![image](https://github.com/user-attachments/assets/04f1ff87-6b71-4a6f-abba-7a69691a31d4)
 
 ---
 
