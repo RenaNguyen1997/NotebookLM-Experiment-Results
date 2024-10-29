@@ -1,21 +1,22 @@
 # Experiment 1: Source Management Functionality
 ### **Objectives** 
-Test the ability of NotebookLM to upload and read different types of sources
+Through this experiment, we aim to assess NotebookLM's capabilities in handling different file formats and its efficiency in managing updates and visual content.
 
 ---
 
 ### **Method** 
-3 different files will be uploaded via 3 different methods
+While NotebookLM supports various file formats, we will focus on three specific types due to time constraints. These selected types represent different methods of input:
 
-- Google Docs:
-- PDF: 
-- Parsed text:
+-	Google Docs: A cloud-based platform allowing real-time updates and adjustments.
+-	PDF: An offline format that can be uploaded directly if the file is available on the local machine.
+-	Parsed Text: Instead of uploading or granting access to another platform, users can copy and paste text directly into the NotebookLM system without complicated settings.
 
-The experiment is carried out to answer the following questions: 
-- If the file has been well recognized with simple questions
-- If the graphs, pictures, and tables are well-recognized
-- After updating the Google Docs, can we see the updating request?
-- If the Google Docs file is updated accordingly once the update request
+The data for this experiment can be found in the GitHub repository under the folder named "Data" (please click on the hyperlink). This experiment aims to evaluate NotebookLM's performance in recognizing and handling various file types. We will focus on the following key questions:
+
+-	File Recognition: Does NotebookLM accurately recognize and respond to simple questions based on the content of each uploaded file?
+-	Recognition of Visual Elements: Are graphs, images, and tables correctly identified and interpreted within the files?
+-	Update Notifications: After making updates to the Google Docs file, is there a visible notification indicating that an update request has been generated?
+-	File Synchronization: Once an update request is made, is the Google Docs file accurately updated to reflect the changes?
 
 ---
 
